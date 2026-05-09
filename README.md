@@ -1,3 +1,26 @@
+# 🏢 Secretaria SENAI
+
+A complete web application developed to digitize and manage the operations of the SENAI secretariat.
+
+> ⚠️ **Historical Archive (SENAI Capstone Project)**
+> *This repository serves as a historical record of a capstone project (TCC) developed collaboratively by a team of four students at SENAI. As our first project for a real-world client, it tackled complex backend demands and administrative workflows. The codebase reflects the team's learning curve with Laravel and system architecture at the time. It is preserved here to showcase our technical evolution and teamwork.*
+
+## 📝 Project Overview
+This system was built to modernize and facilitate the daily tasks of an educational secretariat. The project required handling real-world business rules, managing student data, and creating a reliable environment for administrative staff. 
+
+It was developed as a final graduation project (TCC) to meet the specific demands of the institution, marking a massive technical leap for the entire team in terms of back-end structuring and modern UI design.
+
+## 🛠️ Tech Stack
+* **Back-end:** PHP, Laravel Framework
+* **Front-end:** JavaScript, Tailwind CSS
+* **Database / Data Format:** MySQL, JSON
+
+## 🏆 Achievements
+* **Real-World Application:** Approved and validated by a real client (SENAI).
+* **Academic Excellence:** Concluded with maximum grades, recognized for its high level of complexity and excellent delivery by a small team of four developers.
+
+---
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img
             src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg"
             width="400" alt="Laravel Logo"></a></p>
